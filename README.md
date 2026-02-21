@@ -53,14 +53,6 @@ cd chirpy-api
 npm install
 
 
-### 1. Clone & install
-
-```bash
-git clone https://github.com/janadroubi/chirpy-api.git
-cd chirpy-api
-npm install
-```
-
 ### 2. Create `.env`
 
 ```bash
